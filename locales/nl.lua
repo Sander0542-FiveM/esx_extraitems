@@ -1,6 +1,6 @@
-Locales ['en'] = {
+Locales ['nl'] = {
 	-- Used Notifications
-	['used_bulletproof'] = 'je hebt ~y~1x~s~ ~b~Kogelvrij Vest~s~ gebruikt',
+	['used_bulletproof'] = 'je hebt ~y~1x~s~ ~b~Kogelwerend vest~s~ gebruikt',
 	['used_drill'] = 'je hebt ~y~1x~s~ ~b~Boor~s~ gebruikt',
 	['used_firstaidkit'] = 'je hebt ~y~1x~s~ ~b~EHBO Doos~s~ gebruikt',
 	['used_lockpick'] = 'je hebt ~y~1x~s~ ~b~Lock Pick~s~ gebruikt',
